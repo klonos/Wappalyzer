@@ -175,6 +175,7 @@
     "cats": [
       1
     ],
+    "cpe": "cpe:2.3:a:backdrop_cms:backdrop_cms:*:*:*:*:*:*:*:*",
     "description": "Backdrop is a free and Open Source Content Management System that helps you build modern, comprehensive websites for businesses and non-profits.",
     "excludes": [
       "Drupal",
