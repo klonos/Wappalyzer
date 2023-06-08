@@ -175,7 +175,11 @@
     "cats": [
       1
     ],
-    "excludes": "Drupal",
+    "description": "Backdrop is a free and Open Source Content Management System that helps you build modern, comprehensive websites for businesses and non-profits.",
+    "excludes": [
+      "Drupal",
+      "Drupal Multisite"
+    ],
     "headers": {
       "X-Backdrop-Cache": "",
       "X-Generator": "^Backdrop CMS(?:\\s([\\d.]+))?\\;version:\\1"
@@ -188,6 +192,7 @@
     "meta": {
       "generator": "^Backdrop CMS(?:\\s([\\d.]+))?\\;version:\\1"
     },
+    "oss": true,
     "website": "https://backdropcms.org"
   },
   "Baidu Analytics (百度统计)": {
